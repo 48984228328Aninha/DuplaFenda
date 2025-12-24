@@ -8,9 +8,7 @@
 
 # Conceitos Físicos
 
-## Função de onda (
-𝜓
-ψ): Representa o estado quântico de cada partícula.
+## Função de onda (ψ): Representa o estado quântico de cada partícula.
 
 ## Superposição: Partículas podem passar por duas fendas simultaneamente, criando interferência.
 
